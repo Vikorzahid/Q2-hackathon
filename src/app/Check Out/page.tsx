@@ -1,5 +1,5 @@
 import Image from "next/image"
-import Cheekoupage from "@/images/productsImages/Cheekoupage.png"
+import Cheekoupage from "@/images/productsImages/Cheekoupage.jpg"
 
 export default function CheckOut(){
     return(
