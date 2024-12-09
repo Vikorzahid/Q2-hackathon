@@ -1,5 +1,5 @@
 import Image from "next/image"
- import Aboutus from "@/images/productsImages/about us.png"
+ import Aboutus from "@/images/productsImages/aboutus.png"
  import Whychose from "@/images/productsImages/Why chose us.png"
   import Teammember from "@/images/productsImages/Team Member.png"
   import Testimonials from "@/images/productsImages/Testimonials.png"
